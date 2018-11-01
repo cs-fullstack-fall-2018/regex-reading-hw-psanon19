@@ -4,3 +4,7 @@ improve your regular expression knowledge: https://classroom.github.com/a/Zb3Yl2
 Read the article here and add a text file to the assignment repo that contains 
 one thing you learned new, or understand better 
 https://blog.bitsrc.io/a-beginners-guide-to-regular-expressions-regex-in-javascript-9c58feb27eb4
+
+
+##There are two ways to create a regular expression in Javascript. It can be either created with RegExp constructor, 
+or by using forward slashes ( / ) to enclose the pattern.##
